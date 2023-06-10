@@ -10,17 +10,6 @@
 
 ---
 
-## :sunglasses: Немного слов о себе :
-
-Я начинающий фронтенд разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- :technologist: Хочу стать классным программистом
-
-- :eyes: Мне нравится изучать новые технологии мира IT
-
-- :mechanical_arm: Иногда хожу в тренажерный зал
-
----
-
 ### :hammer_and_wrench: Мой стек :
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
